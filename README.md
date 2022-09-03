@@ -28,8 +28,7 @@
 
 ## Используемые технологии
 - React
-- TypeScript
-- Redux-Toolkit / Redux-Saga / React-router-dom v6
+- Redux / Redux-Saga / React-router-dom v6
 - AntDesign
 ## Использование локально
 
