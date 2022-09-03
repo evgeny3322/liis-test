@@ -28,8 +28,8 @@
 
 ## Используемые технологии
 - React
-- Redux / Redux-Saga / React-router-dom v6
-- AntDesign
+- Redux / Redux-Saga / React-router-dom v5
+- Material UI
 ## Использование локально
 
 Экспорт проекта локально на компьютер:
