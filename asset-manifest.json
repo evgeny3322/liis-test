@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/liis-test/static/css/main.e070197d.chunk.css",
+    "main.js": "/liis-test/static/js/main.a66140f7.chunk.js",
+    "main.js.map": "/liis-test/static/js/main.a66140f7.chunk.js.map",
+    "runtime-main.js": "/liis-test/static/js/runtime-main.eb6a8f3c.js",
+    "runtime-main.js.map": "/liis-test/static/js/runtime-main.eb6a8f3c.js.map",
+    "static/css/2.cc57a610.chunk.css": "/liis-test/static/css/2.cc57a610.chunk.css",
+    "static/js/2.266f516a.chunk.js": "/liis-test/static/js/2.266f516a.chunk.js",
+    "static/js/2.266f516a.chunk.js.map": "/liis-test/static/js/2.266f516a.chunk.js.map",
+    "index.html": "/liis-test/index.html",
+    "static/css/2.cc57a610.chunk.css.map": "/liis-test/static/css/2.cc57a610.chunk.css.map",
+    "static/css/main.e070197d.chunk.css.map": "/liis-test/static/css/main.e070197d.chunk.css.map",
+    "static/js/2.266f516a.chunk.js.LICENSE.txt": "/liis-test/static/js/2.266f516a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/liis-test/static/media/bg.6bd8f5ea.png",
+    "static/media/car1.b9017736.png": "/liis-test/static/media/car1.b9017736.png",
+    "static/media/car2.d8412d00.png": "/liis-test/static/media/car2.d8412d00.png",
+    "static/media/car3.6e508eab.png": "/liis-test/static/media/car3.6e508eab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb6a8f3c.js",
+    "static/css/2.cc57a610.chunk.css",
+    "static/js/2.266f516a.chunk.js",
+    "static/css/main.e070197d.chunk.css",
+    "static/js/main.a66140f7.chunk.js"
+  ]
+}
