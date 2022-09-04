@@ -1,6 +1,6 @@
 {
   "name": "liis-test",
-  "homepage": "https://github.com/evgeny3322/liis-test",
+  "homepage": "https://wwnp.github.io/liis-test/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,6 @@
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "connected-react-router": "^6.9.1",
-    "history": "^5.3.0",
     "js-cookie": "^3.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",

@@ -28,7 +28,7 @@
 
 ## Используемые технологии
 - React
-- Redux / Redux-Saga / React-router-dom v5
+- Redux / Redux-Saga / React-router-dom v6
 - Material UI
 ## Использование локально
 
@@ -53,5 +53,3 @@ yarn start
 ## Demo
 
 Посмотреть приложение в действии можно на [Link](https://evgeny3322.github.io/liis-test/)
-"# liis-test" 
-"# liis-test" 

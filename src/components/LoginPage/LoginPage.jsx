@@ -1,11 +1,10 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import {useForm} from 'react-hook-form';
+import {ErrorHelper} from '../common/ErrorHelper';
+import {emailPattern, pageDomain, passwordPattern} from '../../config';
 import Cookies from 'js-cookie'
-import {useEffect} from 'react';
+import {generateToken} from '../../auxillary';
 import {useHistory} from "react-router-dom";
-import {ErrorHelper} from "../common/ErrorHepler/ErrorHelper";
-import {emailPattern, pageDomain, passwordPattern} from "../../bll/config";
-import {generateToken} from "../../bll/checkDays";
 
 export const LoginPage = () => {
     const history = useHistory()
@@ -26,7 +25,6 @@ export const LoginPage = () => {
     } = useForm({
         mode: 'onBlur'
     });
-
     return (
         <div className='LoginPage'>
             <form className='Hotel__form text-center' onSubmit={handleSubmit(onSubmit)}>
@@ -42,7 +40,6 @@ export const LoginPage = () => {
                                     message: 'Email pattern be like: example@test.com'
                                 }
                             })}
-                        defaultValue='example@test.com'
                         className='form-control'
                         type="email"
                     />
@@ -59,7 +56,6 @@ export const LoginPage = () => {
                                 message: 'Минимум 8 символов'
                             }
                         })}
-                        defaultValue='12345678'
                         className='form-control'
                         type="password"
                         id="password"
